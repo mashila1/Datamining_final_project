@@ -13,6 +13,7 @@ thanks the contribute for 柏鈞, 昭翔, 至祥, 庭偉, mashila
 !pip install apyori
 ```
 
+#### Assignments
 - data preprocessing: 柏鈞, 昭翔
 - algr1 implement: mashila
 - algr2 implement: 昭翔
